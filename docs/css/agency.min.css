@@ -177,7 +177,7 @@ header.masthead{
   text-align:center;
   color:#fff;
   background-color: black;
-  background-image:url(http://benjamindeprez139.vpweb.be/_IGP5129_1.jpg);
+  background-image:url(../img/bg1.webp);
   background-repeat:no-repeat;background-attachment:scroll;
   background-position:center center;
   -webkit-background-size:cover;
@@ -221,6 +221,9 @@ header.masthead .intro-text .intro-heading{
     margin-bottom:50px;
     font-family: 'Kaushan Script'
   }
+}
+.infosup{
+  font-size: 12px;
 }
 .service-heading{
   margin:15px 0;
